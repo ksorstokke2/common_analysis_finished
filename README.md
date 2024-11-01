@@ -5,3 +5,5 @@ The code and relevant output visualizations are contained in the part1 Jupyter N
 Intermediary datasets are contained in files listed under the IntData folder, including the calculated annual AQI and Fire Impact estimates.
 
 Licensing and sources are described in the LICENSE markdown.
+
+The reflection write up can be found on [Google Drive](https://docs.google.com/document/d/1PH01_F6cnAsZn_KySsvITYycg0lyWTKlQhH3S39wNmw/edit?usp=sharing)
